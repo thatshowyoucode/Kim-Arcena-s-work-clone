@@ -37,3 +37,9 @@
   [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq)
 </div>  
   
+---
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&langs_count=10)](https://github.com/Kim-Arcena/github-readme-stats) -->
+
+
+
