@@ -32,14 +32,15 @@
 
 ---
 <div align="center">
-  <h3 align="center">Now Playing 🎧 </h3> 
+  <h3 align="left" margin= "20px">Now Playing 🎧 </h3> 
 
-  [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq)
+  [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&layout=compact&langs_count=5&theme=gotham)](https://github.com/Kim-Arcena/github-readme-stats)
+  
 </div>  
   
----
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&langs_count=10)](https://github.com/Kim-Arcena/github-readme-stats) -->
+
+
 
 
 
