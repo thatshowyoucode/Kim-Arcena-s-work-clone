@@ -1,10 +1,18 @@
 ### Ey! I'm `Kim`
-📚 Just a regularly ambushed Komsai student from UP Visayas
 
+<h3 align="left" margin= "20px">📚 Just a regularly ambushed Komsai student from UP Visayas</h3>
+
+<h4 align="left" margin= "20px">Learning Interests</h4> 
+
+- Mobile Application Development
+- Machine Learning / Deep Learning
+- Data Science
+- Web Application Development
+ 
+<h2 align="left" margin= "20px">Languages and Tools 🛠: </h2>
+<h3 align="left" margin= "20px">Learning and In-Practice</h3> 
 <img align="right" height="250px" src="https://media.giphy.com/media/l2YOC9BjeXhCybEaI/giphy.gif?cid=ecf05e470lbytvgf7iq3dtmxxairpaovcrrmhiejene3mudt&rid=giphy.gif&ct=g" alt="Kim-Arcena" />
-
-
-### 🛠 Languages and Tools:  
+     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,11 +38,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
----
-<div align="center">
-  <h3 align="left" margin= "20px">Now Playing 🎧 </h3> 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&layout=compact&langs_count=5&theme=gotham)](https://github.com/Kim-Arcena/github-readme-stats)
+<div align="center">
+  <h2 align="left" margin= "20px" style.less = "border-bottom : none"> Now Playing 🎧</h2> 
+
+  [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&layout=compact&langs_count=8&theme=gotham)](https://github.com/Kim-Arcena/github-readme-stats)
   
 </div>  
   
