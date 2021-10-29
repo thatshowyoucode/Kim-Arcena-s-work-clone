@@ -41,7 +41,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
-  <h2 align="left" margin= "20px" style.less = "border-bottom : none"> Now Playing 🎧</h2> 
+  <h2 align="left" margin= "`0px" style.less = "border-bottom : none"> Now Playing 🎧</h2> 
 
   [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&layout=compact&langs_count=8&theme=gotham)](https://github.com/Kim-Arcena/github-readme-stats)
   
