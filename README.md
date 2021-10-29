@@ -45,13 +45,8 @@
 <!-- 
   [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&layout=compact&langs_count=8&theme=gotham)](https://github.com/Kim-Arcena/github-readme-stats)
  -->
-
-<img align="left" width="420" alt="https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq" align="left" src="https://novatorem-spotify-ebon.vercel.app/api/spotify">
-<img width="350" alt="https://github.com/Kim-Arcena/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&layout=compact&langs_count=8&theme=gotham" />
-  
-
-
-
-
-
-
+<div>
+  <img style="vertical-align:middle" align="left" width="420" alt="https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq" align="left" src="https://novatorem-spotify-ebon.vercel.app/api/spotify">
+  <img width="350" alt="https://github.com/Kim-Arcena/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&layout=compact&langs_count=8&theme=gotham" />
+</div> 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
