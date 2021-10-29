@@ -46,8 +46,8 @@
   [![Spotify](https://novatorem-spotify-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&layout=compact&langs_count=8&theme=gotham)](https://github.com/Kim-Arcena/github-readme-stats)
  -->
 
-<img align="left" alt="https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq" align="left" src="https://novatorem-spotify-ebon.vercel.app/api/spotify">
-<img alt="https://github.com/Kim-Arcena/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&layout=compact&langs_count=8&theme=gotham" width="300"/>
+<img align="left" width="400" alt="https://open.spotify.com/user/31qayxotawruu62sus53uvocyfzq" align="left" src="https://novatorem-spotify-ebon.vercel.app/api/spotify">
+<img width="350" alt="https://github.com/Kim-Arcena/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Arcena&layout=compact&langs_count=8&theme=gotham" />
   
 
 
