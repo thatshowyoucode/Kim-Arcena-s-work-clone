@@ -1,4 +1,4 @@
-
+Hi there
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?color=734DFF&center=true&vCenter=true&width=450&height=70&lines=Welcome+To+My+Profile!;I'm+a+Fullstack+Software+Developer;Always+Eager+to+Learn+New+Skills;Iskolar+ng+Bayan+Para+sa+Bayan">
